@@ -201,4 +201,3 @@ Through this project, students gain practical knowledge of:
 
 
 
-This project is intended for educational and learning purposes.
