@@ -37,16 +37,6 @@ To develop an IoT-based vehicle tracking and theft prevention system capable of:
 
 ## Technology Stack
 
-### Hardware
-
-* ESP32 Microcontroller
-* NEO-6M GPS Module
-* Relay Module
-* Buzzer
-* LED Indicators
-
-### Software
-
 * Python
 * Pandas
 * Geopy
